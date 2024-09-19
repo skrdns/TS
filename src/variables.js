@@ -1,0 +1,12 @@
+var myString = "qq, wrld!";
+var myNumber = 42;
+var myBoolean = true;
+var myAny = "we u want";
+console.log("String:", myString);
+console.log("Number:", myNumber);
+console.log("Boolean:", myBoolean);
+console.log("Any:", myAny);
+var stringArray = ["Один", "Два", "Три"];
+var numberArray = [1, 2, 3, 4, 5];
+console.log("String Array:", stringArray);
+console.log("Number Array:", numberArray);
